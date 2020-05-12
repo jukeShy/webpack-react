@@ -9,7 +9,7 @@
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": ["React", "Webpack"],
-  "author": "Andrew Kunitsyn <huntyangel666@gmail.com>",
+  "author": "Andrey Kunitsyn <huntyangel666@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/jukeShy/webpack-react#readme",
   "repository": {
