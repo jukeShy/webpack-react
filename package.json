@@ -1,15 +1,24 @@
 {
   "name": "webpack-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple webpack react configuration",
   "main": "index.js",
+  "browserslist": "> 0.25%, not dead",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js ",
     "build": "webpack --config webpack.prod.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["React", "Webpack"],
+  "author": "Andrew Kunitsyn <huntyangel666@gmail.com>",
   "license": "ISC",
+  "homepage": "https://github.com/jukeShy/webpack-react#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jukeShy/webpack-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jukeShy/webpack-react/issues"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
